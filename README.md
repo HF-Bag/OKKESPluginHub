@@ -6,14 +6,14 @@
 
 ## 下载
 
-- [下载客户端 v1.1（ZIP）](https://raw.githubusercontent.com/TYH-great/OKKESPluginHub/main/OKKESPluginHub-Windows-v1.1.zip)
-- [下载扫描词库（ZIP，6,204 对）](https://raw.githubusercontent.com/TYH-great/OKKESPluginHub/main/generated-terms.zip)
+- [下载客户端 v1.1（ZIP）](https://raw.githubusercontent.com/HF-Bag/OKKESPluginHub/main/OKKESPluginHub-Windows-v1.1.zip)
+- [下载扫描词库（ZIP，6,204 对）](https://raw.githubusercontent.com/HF-Bag/OKKESPluginHub/main/generated-terms.zip)
 - [扫描词库使用说明](./扫描词库使用说明.md)
 - [免责声明](./免责声明.md)
 
 词库压缩包解压后得到 `generated-terms.json`，请使用解压后的 JSON 文件更新或导入。JSON 本身是文本，直接查看时浏览器会显示内容，这是正常现象。
 
-备用：[下载整个仓库](https://codeload.github.com/TYH-great/OKKESPluginHub/zip/refs/heads/main)，也可在仓库点击 **Code → Download ZIP**。解压后再解压其中的客户端或词库 ZIP。
+备用：[下载整个仓库](https://codeload.github.com/HF-Bag/OKKESPluginHub/zip/refs/heads/main)，也可在仓库点击 **Code → Download ZIP**。解压后再解压其中的客户端或词库 ZIP。
 
 > v1.1 已内置与本次导出相同的 **6,204 对扫描词条**，没有两个游戏客户端也能直接使用，无需额外导入。单独提供扫描词库用于备份、对比及手动更新。
 

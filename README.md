@@ -6,13 +6,15 @@
 
 ## 下载
 
-- [下载 Windows v1.1 压缩包](https://raw.githubusercontent.com/TYH-great/OKKESPluginHub/main/OKKES%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%BF%83-Windows-v1.1.zip)
-- [下载扫描词库（6,204 对）](https://raw.githubusercontent.com/TYH-great/OKKESPluginHub/main/ok-kes-%E6%89%AB%E6%8F%8F%E8%AF%8D%E5%BA%93.json)
+- [下载 Windows v1.1 压缩包](https://raw.githubusercontent.com/TYH-great/OKKESPluginHub/main/OKKESPluginHub-Windows-v1.1.zip)
+- [下载扫描词库（6,204 对）](https://raw.githubusercontent.com/TYH-great/OKKESPluginHub/main/generated-terms.json)
 - [扫描词库使用说明](./扫描词库使用说明.md)
 - [SHA-256 校验文件](./SHA256SUMS.txt)
 - [免责声明](./免责声明.md)
 
-下载直链如果无法打开，可进入 [压缩包文件页](https://github.com/TYH-great/OKKESPluginHub/blob/main/OKKES%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%BF%83-Windows-v1.1.zip)，点击 **Download raw file（下载原始文件）**。也可通过仓库 **Code → Download ZIP** 下载整个仓库，解压后再解压其中的客户端压缩包。
+下载文件使用纯英文文件名；`generated-terms.json` 即共享扫描词库。若两个直链都无法打开，请使用 [整个仓库下载](https://codeload.github.com/TYH-great/OKKESPluginHub/zip/refs/heads/main)，解压后可取得客户端和词库。
+
+下载直链如果无法打开，可进入 [压缩包文件页](https://github.com/TYH-great/OKKESPluginHub/blob/main/OKKESPluginHub-Windows-v1.1.zip)，点击 **Download raw file（下载原始文件）**。也可通过仓库 **Code → Download ZIP** 下载整个仓库，解压后再解压其中的客户端压缩包。
 
 > v1.1 已内置与本次导出相同的 **6,204 对扫描词条**，没有两个游戏客户端也能直接使用，无需额外导入。单独提供扫描词库用于备份、对比及手动更新。
 

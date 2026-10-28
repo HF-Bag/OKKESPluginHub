@@ -9,7 +9,6 @@
 - [下载客户端 v1.1（ZIP）](https://raw.githubusercontent.com/TYH-great/OKKESPluginHub/main/OKKESPluginHub-Windows-v1.1.zip)
 - [下载扫描词库（ZIP，6,204 对）](https://raw.githubusercontent.com/TYH-great/OKKESPluginHub/main/generated-terms.zip)
 - [扫描词库使用说明](./扫描词库使用说明.md)
-- [SHA-256 校验文件](./SHA256SUMS.txt)
 - [免责声明](./免责声明.md)
 
 词库压缩包解压后得到 `generated-terms.json`，请使用解压后的 JSON 文件更新或导入。JSON 本身是文本，直接查看时浏览器会显示内容，这是正常现象。
@@ -30,7 +29,7 @@
 
 共享文件是自动扫描结果，不是空的人工校正模板。详细步骤见 [扫描词库使用说明](./扫描词库使用说明.md)。
 
-- **推荐**：备份后将下载文件重命名为 `generated-terms.json`，放入插件当前数据目录的 `data/`，更新自动层；保留自己的 `data/terms.json`，人工校正仍优先。
+- **推荐**：解压词库 ZIP，备份后将其中的 `generated-terms.json`，放入插件当前数据目录的 `data/`，更新自动层；保留自己的 `data/terms.json`，人工校正仍优先。
 - **界面导入**：`词库管理 → 导入…` 也能读取此 JSON，但会作为人工优先层导入；有冲突时拒绝整次导入。希望后续更新自动词库时，采用推荐方式。
 - v1.1 首次安装已包含同一份基础词库，通常无需执行上述步骤。
 
